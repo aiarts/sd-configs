@@ -1,0 +1,26 @@
+name,prompt,negative_prompt
+Default,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
+Quality,"(masterpiece, best quality:1),","(lowres, worst quality, low quality, normal quality:1.3),"
+NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, missing arms, long neck, Humpbacked"
+高質桌布,"masterpiece, best quality, 8k, finely detailed beautiful eyes, vividcolor, beautiful detailed face, Cinematic light, ray tracing, high resolution illustration, colorful, 8k wallpaper, highres",
+精緻女孩,an extremely delicate and beautiful girl,
+鏡頭虛化,"depth of field, blurry background, blurry foreground, ",
+臉部增強,"delicate, beautiful, beautiful face, beautiful eyes, beautiful girl, delicate face, delicate girl,",
+人物美化,,"(obese, dark hair, black hair, ugly:1.15)"
+畫面增強,"high resolution illustration, colorful, 8k wallpaper, highres",
+光線增強,"Cinematic light, ray tracing, volumetric lighting, ",
+降噪清晰,,"noise, conjoined, cohered, coalesced, low contrast"
+細節增強,"hyper detailed,ultra-detailed",
+負面擴充套件,,"artist name, twisted torso, (((fusion), extra, bad, fewer, missing), fist,clenched hand)"
+超高細節,"8k wallpaper,(best quality:1.12),(detailed:1.12),(intricate:1.12),(ultra-detailed:1.12),(highres:1.12)",
+放開裙子,,"(grab clothes, grab dress, grab skirt)"
+隱藏手掌,"[lower_arms, bad_hands, bad_finger, bad_palms:1.2]","(lower_arms, bad_hands, bad_finger, bad_palms:1.2)"
+完美構圖,"perfect anatomy, perfect body, perfect composition","bad anatomy, bad body, bad composition"
+1,1,
+長T恤,"t-shirt, long t-shirt, narrow waist t-shirt, t-shirt over hips, short dress","bare, nafw, sagging breast, crop top"
+不好看的,,"((( simple background))), monochrome, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, ugly, pregnant, vore, duplicate, morbid, mut ilated, tran nsexual, hermaphrodite, long neck, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, bad proportions, malformed limbs, extra limbs, cloned face, disfigured, gross proportions,((( missing arms))),((( missing legs))),((( extra arms))),((( extra legs))), pubic hair, plump, bad legs, error legs, bad feet"
+角色卡片,"multiple views,( illustration:1.1025),( infographic:1.2), patent drawings, physical measurement, megami magazine",
+輸入框預設值,"masterpiece, best quality,
+
+,delicate, beautiful,colorful, vividcolor, lighting,
+",
